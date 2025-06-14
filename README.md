@@ -1,5 +1,5 @@
-# Build a "bookbot"
+# Boot.dev | Build a Bookbot in Python
 
-The first guided project from [Boot.dev](https://www.boot.dev), focusing on Python basics plus Git & Linux shell operations.
+**Project Description**: Build your first local command-line application in Python and use the real tools that developers use every day.
 
-Source: <https://www.boot.dev/courses/build-bookbot-python>
+**Source**: <https://www.boot.dev/courses/build-bookbot-python>
